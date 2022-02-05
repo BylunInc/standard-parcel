@@ -4,4 +4,4 @@ This repo is used as a template for new projects.
 - SASS (SCSS)
 - Parcel
 
-__Don't forget to__ `npm init`
+__Don't forget to use__ `npm init`
