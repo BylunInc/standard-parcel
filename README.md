@@ -1,7 +1,8 @@
-# this.repo
-This repo is used as a template for new projects. 
+# Introduction
+This repo contains everything I need to initialise a new project. 
 ## Content
 - SASS (SCSS)
 - Parcel
-
-__Don't forget to use__ `npm init`
+## Installation
+`npm i`
+`npm run dev`
