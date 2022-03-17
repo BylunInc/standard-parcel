@@ -1,9 +1,10 @@
 # Introduction
-This repo contains everything I need to initialise a new project. 
+This repo contains everything I need to initialise a new SCSS project quickly. 
 ## Content
 - SASS (SCSS)
 - Parcel
 ## Installation
-`npm i`
-
-`npm run dev`
+```
+npm i
+npm run dev
+```
